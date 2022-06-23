@@ -1,6 +1,6 @@
 {
   "name": "stellaris-research-path",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utility for generating a research pathway for a given technology in Stellaris",
   "main": "index.js",
   "directories": {
