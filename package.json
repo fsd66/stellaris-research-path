@@ -1,0 +1,14 @@
+{
+  "name": "stellaris-research-path",
+  "version": "0.0.1",
+  "description": "Utility for generating a research pathway for a given technology in Stellaris",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "fsd66",
+  "license": "ISC"
+}
